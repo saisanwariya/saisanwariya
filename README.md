@@ -1,11 +1,25 @@
 [![MasterHead](https://github.com/saisanwariya/saisanwariya/blob/main/tback.gif)](https://sanwariya.co)
 
 <h1 align="center">Hi 👋, I'm Sai Sanwariya Narayan</h1>
+
 <h3 align="center">COMPUTER ENGINEER | APPLICATION DEVELOPER</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saisanwariya&label=Profile%20views&color=0e75b6&style=flat" alt="saisanwariya" />
 </p>
+
+---
+
+- 📍 **Location:** Currently based in State College, PA.  
+- 🌐 **Portfolio:** Dive into my digital world at [sanwariya.co](https://www.sanwariya.co).  
+- 📧 **Connect:** Feel free to drop me a line at [sainarayan1209@gmail.com](mailto:sainarayan1209@gmail.com).  
+- 🔧 **Current Project:** Revamping the [Vupadhi](https://www.vupadhi.com) website.
+- 📚 **On My Learning Desk:** Picking up [Webflow](https://www.webflow.com) and Data Visualization with [Tableau](https://www.tableau.com).  
+- 🤝 **Collaborations:** Open to interesting projects. I'm all ears! [Let's chat](mailto:sainarayan1209@gmail.com).  
+- ⚡ **Beyond Code:** I'm love football, Trekking, and always up for a new adventure!
+ 
+---
+
 
 ### Socials:
 
@@ -69,5 +83,5 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisanwariya&show_icons=true&locale=en&layout=compact" alt="saisanwariya" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisanwariya&show_icons=true&locale=en&layout=compact" alt="saisanwariya" />
 </p>
