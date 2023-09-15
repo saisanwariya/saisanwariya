@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sai Sanwariya Narayan</h1>
 <h3 align="center">COMPUTER ENGINEER | APPLICATION DEVELOPER</h3>
 
+<img align="center" alt="Coding" width="400" src=" ">
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saisanwariya&label=Profile%20views&color=0e75b6&style=flat" alt="saisanwariya" />
 </p>
