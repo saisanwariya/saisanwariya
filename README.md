@@ -5,7 +5,15 @@
 
 ### Socials:
 
-<p align="left"> <a href="https://www.github.com/saisanwariya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a> </a> <a href="https://www.linkedin.com/in/saisanwariya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a></p>
+<p align="left"> 
+  <a href="https://www.github.com/saisanwariya" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/saisanwariya" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
+  </a>
+</p>
+
 
 ### Skills:
 
