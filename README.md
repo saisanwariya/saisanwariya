@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/saisanwariya/saisanwariya/blob/main/back.gif)](https://sanwariya.co)
+[![MasterHead](https://github.com/saisanwariya/saisanwariya/blob/main/backg.gif)](https://sanwariya.co)
 
 <h1 align="center">Hi 👋, I'm Sai Sanwariya Narayan</h1>
 <h3 align="center">COMPUTER ENGINEER | APPLICATION DEVELOPER</h3>
