@@ -9,14 +9,7 @@
 </p>
 
 ---
-
-- 📍 **Location:** Currently based in Charlotte, NC  
-- 📧 **Connect:** Feel free to drop me a line at [sainarayan1209@gmail.com](mailto:sainarayan1209@gmail.com).  
-- 🔧 **Current Project:** Revamping the [Vupadhi](https://www.vupadhi.com) website.
-- 📚 **On My Learning Desk:** Picking up [Webflow](https://www.webflow.com) and Data Visualization with [Tableau](https://www.tableau.com).  
-- 🤝 **Collaborations:** Open to interesting projects. I'm all ears! [Let's chat](mailto:sainarayan1209@gmail.com).  
-- ⚡ **Beyond Code:** I'm love football, Trekking, and always up for a new adventure!
- 
+- 📧 **Connect:** Drop me a line at [sainarayan1209@gmail.com](mailto:sainarayan1209@gmail.com).  
 ---
 
 
